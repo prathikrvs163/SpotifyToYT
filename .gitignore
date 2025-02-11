@@ -1,0 +1,4 @@
+# Ignore cache files and credentials
+.cache
+.env
+oauth.json
